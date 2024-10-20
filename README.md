@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Personal learning project**
 
-- 🌱 I’m currently learning **React, node, django , flask**
+- 🌱 I’m currently learning **React, node, django , flask ,C++**
 
 - 👯 I’m looking to collaborate on **Mern stack development**
 
