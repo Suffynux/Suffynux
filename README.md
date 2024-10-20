@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **suffynux@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sufiyan-ali-suffynux/](https://www.linkedin.com/in/sufiyan-ali-suffynux/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/sufiyan-ali-suffynux/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
