@@ -15,12 +15,12 @@
 
 - 📫 How to reach me **suffynux@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sufiyan-ali-suffynux/]
+- 📄 Know about my experiences [https://www.linkedin.com/in/sufiyan-ali-suffynux/](https://www.linkedin.com/in/sufiyan-ali-suffynux/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/suffynux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suffynux" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sufiyan-ali-suffynux/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sufiyan-ali-suffynux/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sufiyan-ali-suffynux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sufiyan-ali-suffynux" height="30" width="40" /></a>
 <a href="https://instagram.com/suffynux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suffynux" height="30" width="40" /></a>
 </p>
 
