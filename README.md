@@ -12,7 +12,7 @@
 
 Passionate full-stack developer specializing in modern web technologies. I build scalable applications with clean, maintainable code and focus on creating exceptional user experiences.
 
-**Current Focus:** MERN Stack Development • Next.js • TypeScript
+**Current Focus:** MERN Stack Development • Next.js • TypeScript • Python
 
 ---
 
