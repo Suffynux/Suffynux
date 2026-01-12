@@ -44,6 +44,8 @@ Passionate full-stack developer specializing in modern web technologies. I build
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_AI-4A5568?style=flat&logo=anthropic&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 
 ---
 
