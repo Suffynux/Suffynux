@@ -27,7 +27,7 @@ Node.js · Express.js · Django · Flask
 JavaScript · Python · C++  
 
 **Databases & Tools**  
-MongoDB · Git · Docker · Socket.io · Postman · Figma  
+MongoDB · · POSTGRESQL   Git · Docker · Socket.io · Postman · Figma  · Canva
 
 ---
 
