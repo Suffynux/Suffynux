@@ -5,9 +5,9 @@
 
 ---
 
-## Professional Summary
+## Intro
 
-Full-stack developer with hands-on experience building scalable, production-ready web applications and cross-platform desktop tools. Strong focus on clean architecture, maintainable code, and performance-driven UI development. Comfortable working across the full development lifecycle — from concept to deployment — and actively contributing to live products.
+Full-stack developer with hands-on experience building scalable, production-ready web applications and cross-platform desktop tools. Strong focus on clean architecture, maintainable code, and performance-driven UI development. Comfortable working across the full development lifecycle  from concept to deployment  and actively contributing to live products.
 
 **Core Focus Areas:**
 MERN Stack · Next.js · TypeScript · Backend APIs · UI/UX Implementation · AI Integration
