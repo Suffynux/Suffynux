@@ -7,10 +7,10 @@
 
 ## Intro
 
-Full-stack developer with hands-on experience building scalable, production-ready web applications and cross-platform desktop tools. Strong focus on clean architecture, maintainable code, and performance-driven UI development. Comfortable working across the full development lifecycle  from concept to deployment  and actively contributing to live products.
+Full-stack developer with hands-on experience building scalable, production-ready web applications and cross-platform desktop tools. Strong focus on clean architecture, maintainable code, and performance-driven UI development. Comfortable working across the full development lifecycle — from concept to deployment — and actively contributing to live products.
 
 **Core Focus Areas:**
-MERN Stack · Next.js · TypeScript · Backend APIs · UI/UX Implementation · AI Integration
+MERN Stack · Next.js · TypeScript · Backend APIs · UI/UX Implementation · AI Integration · Shopify Development
 
 ---
 
@@ -24,6 +24,7 @@ MERN Stack · Next.js · TypeScript · Backend APIs · UI/UX Implementation · A
 | **Databases** | MongoDB, PostgreSQL |
 | **Desktop** | Tauri (Next.js → cross-platform desktop apps) |
 | **AI / ML** | Google Gemini API, LLM integration, AI agent workflows |
+| **Shopify** | Theme development (Liquid), custom app development, storefront APIs, CRM integrations |
 | **Tools & Infra** | Git, Docker, Socket.io, Postman, Prisma, Cloudinary, Figma, Canva |
 
 ---
@@ -42,6 +43,20 @@ AI-powered resume parser and ATS analyzer. Helps recruiters and job seekers turn
 - **Desktop App:** Packaged as a cross-platform native desktop application using [Tauri](https://tauri.app), wrapping the Next.js frontend into a lightweight Mac/Windows/Linux binary
 
 *Stack:* Next.js · TypeScript · Google Gemini API · PostgreSQL (Neon) · Prisma · Cloudinary · Tauri
+
+---
+
+### [Gomila Intersole](https://gomilaintersole.pk) · [gomilaintersole.com](https://gomilaintersole.com) · [GitHub](https://github.com/Suffynux/gomila-shopify-pk)
+Full-scale Shopify store development and management for a footwear brand operating across dual domains (.pk & .com). Responsible for end-to-end store setup, custom theme development, and ongoing technical operations.
+
+- Custom Liquid theme development with performance-optimized, mobile-first UI
+- CRM integration for customer segmentation, order tracking, and automated follow-ups
+- Third-party app integrations: email marketing, inventory sync, analytics, and loyalty programs
+- Storefront API usage for headless and hybrid commerce features
+- Ongoing store management: product uploads, collection structuring, discount logic, and SEO optimization
+- Multi-region setup supporting both Pakistani (.pk) and international (.com) storefronts
+
+*Stack:* Shopify · Liquid · JavaScript · Storefront API · CRM Integrations · Metafields
 
 ---
 
@@ -88,11 +103,14 @@ Exploration and implementation of AI agent architectures, tool-use workflows, an
 
 ## Desktop Distribution with Tauri
 
+Production apps like CV Glow AI are packaged as lightweight native desktop binaries using [Tauri](https://tauri.app). This approach wraps a Next.js frontend into a cross-platform executable (Mac, Windows, Linux) without the overhead of Electron — resulting in smaller bundle sizes, native OS integration, and faster startup times.
 
+---
 
 ## Current Focus
 
-- Maintaining and scaling production projects (CV Glow AI, Cega, Next GridIt)
+- Maintaining and scaling production projects (CV Glow AI, Cega, Next GridIt, Gomila)
+- Shopify store development, CRM integrations, and e-commerce automation
 - Improving system design and advanced React patterns
 - Deepening expertise in AI integration and agent-based workflows
 - Long-term exploration of cybersecurity specialization
@@ -101,7 +119,7 @@ Exploration and implementation of AI agent architectures, tool-use workflows, an
 
 ## Collaboration & Networking
 
-Open to full-stack and MERN-based projects, frontend-heavy roles with strong UX focus, and remote collaboration or freelance opportunities.
+Open to full-stack and MERN-based projects, Shopify store development and integrations, frontend-heavy roles with strong UX focus, and remote collaboration or freelance opportunities.
 
 ---
 
