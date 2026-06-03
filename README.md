@@ -33,6 +33,20 @@ MERN Stack · Next.js · TypeScript · Backend APIs · UI/UX Implementation · A
 
 Projects I am actively building, maintaining, and contributing to:
 
+### [Save My Tokens](https://github.com/Suffynux/save-my-tokens)
+A free, open-source personal tool for cutting AI token costs. Converts any file — PDF, Word, PowerPoint, Excel, CSV, or HTML — into clean Markdown using [Microsoft MarkItDown](https://github.com/microsoft/markitdown). Paste the output directly into Claude, ChatGPT, Gemini, or any text-based AI instead of uploading the raw file. Same content, dramatically fewer tokens.
+
+- Supports PDF, DOCX, PPTX, XLSX, CSV, and HTML conversion in one click
+- Powered by Microsoft MarkItDown running inside a Python serverless function
+- Displays a live token estimate alongside a copy and download button
+- Zero storage, zero sign-in — file is processed and immediately discarded
+- One-click self-hosting: fork the repo, import to Vercel, and deploy in minutes
+- Fully open source — free to use, fork, and extend
+
+*Stack:* Next.js · TypeScript · Python · Microsoft MarkItDown · Vercel Serverless
+
+---
+
 ### [CV Glow AI](https://cv-glow-ai.vercel.app) · [GitHub](https://github.com/Suffynux/cv-glow-ai)
 AI-powered resume parser and ATS analyzer. Helps recruiters and job seekers turn resumes into opportunities through intelligent scoring, keyword analysis, and structured feedback.
 
@@ -111,6 +125,7 @@ Production apps like CV Glow AI are packaged as lightweight native desktop binar
 
 - Maintaining and scaling production projects (CV Glow AI, Cega, Next GridIt, Gomila)
 - Shopify store development, CRM integrations, and e-commerce automation
+- Building open-source AI productivity tooling (Save My Tokens)
 - Improving system design and advanced React patterns
 - Deepening expertise in AI integration and agent-based workflows
 - Long-term exploration of cybersecurity specialization
