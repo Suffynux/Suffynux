@@ -33,6 +33,42 @@ MERN Stack · Next.js · TypeScript · Backend APIs · UI/UX Implementation · A
 
 Projects I am actively building, maintaining, and contributing to:
 
+### [Cega](https://cega.com.pk) · [Case Study](https://github.com/Suffynux/Cega-Readme)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Suffynux/Cega-Readme/main/screenshots/admin-dashboard-overview.png" width="800" alt="CEGA admin dashboard" />
+</p>
+
+Full-stack platform for Pakistan's national gaming & animation education hub, backed by the Ministry of IT & Telecom — 10,000+ students trained. Built the complete CRM layer: applicant lifecycle management, a two-phase multi-judge scoring & evaluation system, batch/cohort analytics, resource booking (meeting rooms, co-working, rendering lab), and an AI chatbot assistant.
+
+*Stack:* Next.js · TypeScript · MongoDB · NextAuth.js · OpenAI API
+
+---
+
+### [Gomila PK](https://gomilaintersole.pk) · [Case Study](https://github.com/Suffynux/Gomila-PK-Readme)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Suffynux/Gomila-PK-Readme/main/screenshots/hero.webp" width="800" alt="Gomila Intersole PK storefront" />
+</p>
+
+Pakistan's home-market storefront for a luxury footwear brand — 5,000+ SKU catalog, managed end-to-end. Built a custom Nike-inspired product page with a working pre-order system, automated shoppable-video merchandising (Reels & Export Sample Sale), a self-running deals calendar, a bulk product-photo styling system for consistent imagery at scale, and a custom Apple-inspired checkout with local payment methods (COD, bank transfer, BNPL).
+
+*Stack:* Shopify · Liquid · JavaScript · Metafields · Smart Collections · Storefront/Admin APIs
+
+---
+
+### [Gomila International UK](https://gomilaintersole.com) · [Case Study](https://github.com/Suffynux/Gomila-UK-Readme)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Suffynux/Gomila-UK-Readme/main/screenshots/export-sample-sale.webp" width="800" alt="Gomila Intersole international storefront — Export Sample Sale" />
+</p>
+
+The international counterpart to the Pakistan store — same theme architecture and merchandising systems, reconfigured for a cross-border buyer: international checkout, a market/region gate, and a dedicated Export Sample Sale channel for moving export-grade overstock globally.
+
+*Stack:* Shopify · Liquid · JavaScript · Metafields · Smart Collections · Storefront/Admin APIs
+
+---
+
 ### [Save My Tokens](https://github.com/Suffynux/save-my-tokens)
 A free, open-source personal tool for cutting AI token costs. Converts any file — PDF, Word, PowerPoint, Excel, CSV, or HTML — into clean Markdown using [Microsoft MarkItDown](https://github.com/microsoft/markitdown). Paste the output directly into Claude, ChatGPT, Gemini, or any text-based AI instead of uploading the raw file. Same content, dramatically fewer tokens.
 
@@ -57,32 +93,6 @@ AI-powered resume parser and ATS analyzer. Helps recruiters and job seekers turn
 - **Desktop App:** Packaged as a cross-platform native desktop application using [Tauri](https://tauri.app), wrapping the Next.js frontend into a lightweight Mac/Windows/Linux binary
 
 *Stack:* Next.js · TypeScript · Google Gemini API · PostgreSQL (Neon) · Prisma · Cloudinary · Tauri
-
----
-
-### [Gomila Intersole](https://gomilaintersole.pk) · [gomilaintersole.com](https://gomilaintersole.com) · [GitHub](https://github.com/Suffynux/gomila-shopify-pk)
-Full-scale Shopify store development and management for a footwear brand operating across dual domains (.pk & .com). Responsible for end-to-end store setup, custom theme development, and ongoing technical operations.
-
-- Custom Liquid theme development with performance-optimized, mobile-first UI
-- CRM integration for customer segmentation, order tracking, and automated follow-ups
-- Third-party app integrations: email marketing, inventory sync, analytics, and loyalty programs
-- Storefront API usage for headless and hybrid commerce features
-- Ongoing store management: product uploads, collection structuring, discount logic, and SEO optimization
-- Multi-region setup supporting both Pakistani (.pk) and international (.com) storefronts
-
-*Stack:* Shopify · Liquid · JavaScript · Storefront API · CRM Integrations · Metafields
-
----
-
-### [Cega](https://cega.com.pk) · [Case Study](https://github.com/Suffynux/Cega-Readme)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Suffynux/Cega-Readme/main/screenshots/admin-dashboard-overview.png" width="800" alt="CEGA admin dashboard" />
-</p>
-
-Full-stack platform for Pakistan's national gaming & animation education hub, backed by the Ministry of IT & Telecom — 10,000+ students trained. Built the complete CRM layer: applicant lifecycle management, a two-phase multi-judge scoring & evaluation system, batch/cohort analytics, resource booking (meeting rooms, co-working, rendering lab), and an AI chatbot assistant.
-
-*Stack:* Next.js · TypeScript · MongoDB · NextAuth.js · OpenAI API
 
 ---
 
