@@ -74,10 +74,15 @@ Full-scale Shopify store development and management for a footwear brand operati
 
 ---
 
-### [Cega](https://cega.com.pk) · [Admin Panel](https://www.cega.com.pk/admin) · [GitHub](https://github.com/Suffynux/cega)
-Full-featured business platform with a dedicated CRM layer for managing client operations, internal workflows, and administrative activities. Includes a protected admin dashboard for day-to-day business management.
+### [Cega](https://cega.com.pk) · [Case Study](https://github.com/Suffynux/Cega-Readme)
 
-*Stack:* Next.js · TypeScript · PostgreSQL · Tailwind CSS
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Suffynux/Cega-Readme/main/screenshots/admin-dashboard-overview.png" width="800" alt="CEGA admin dashboard" />
+</p>
+
+Full-stack platform for Pakistan's national gaming & animation education hub, backed by the Ministry of IT & Telecom — 10,000+ students trained. Built the complete CRM layer: applicant lifecycle management, a two-phase multi-judge scoring & evaluation system, batch/cohort analytics, resource booking (meeting rooms, co-working, rendering lab), and an AI chatbot assistant.
+
+*Stack:* Next.js · TypeScript · MongoDB · NextAuth.js · OpenAI API
 
 ---
 
