@@ -83,7 +83,11 @@ An internal ops tool replacing spreadsheets and WhatsApp for refund/exchange tra
 
 ### [JK News Records](https://jk-new-one.vercel.app) · [GitHub](https://github.com/Suffynux/jk-new)
 
-A newsroom production tracker built for **JK News**, a Jammu & Kashmir news channel with 200,000+ followers. Follows every story through a 5-stage pipeline — In Progress → Voice Over → Video/Editing → On Air → Done — on a mobile-first Kanban board, because the team works from phones.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Suffynux/jk-new/main/screenshots/list-view.png" width="800" alt="JK News Records news board" />
+</p>
+
+A newsroom production tracker built for **JK News**, an Azad Kashmir & Manchester-based news channel with 239,000+ followers. Manages the full flow of news creation from first draft to deadline through a 5-stage pipeline — In Progress → Voice Over → Video/Editing → On Air → Done — on a mobile-first Kanban board, because the team works from phones.
 
 - **Automatic turnaround timing** — a timer starts when a story is created and stops at Done; elapsed time shows live on every card
 - **Overdue alerts** — anything not aired within an hour turns red, with overdue counts in the header and per-day badges
