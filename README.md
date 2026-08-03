@@ -101,6 +101,10 @@ A newsroom production tracker built for **JK News**, an Azad Kashmir & Mancheste
 
 ### [Save My Tokens](https://save-my-tokens.vercel.app) · [GitHub](https://github.com/Suffynux/save-my-tokens) · MIT
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Suffynux/save-my-tokens/main/screenshots/converter.png" width="800" alt="Save My Tokens converter" />
+</p>
+
 Upload a 1,000-page PDF straight into an AI model and it burns your entire token budget before you ask a single question — most of it spent on layout and encoding overhead, not content. This converts the document to clean Markdown first, so the same file costs a fraction of the tokens and leaves room for the actual conversation. Built as an internal tool, then open-sourced.
 
 - Converts PDF, DOCX, PPTX, XLSX, CSV, and HTML in one click via [Microsoft MarkItDown](https://github.com/microsoft/markitdown) in a Python serverless function
