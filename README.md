@@ -81,6 +81,20 @@ An internal ops tool replacing spreadsheets and WhatsApp for refund/exchange tra
 
 ---
 
+### [JK News Records](https://jk-new-one.vercel.app) · [GitHub](https://github.com/Suffynux/jk-new)
+
+A newsroom production tracker built for **JK News**, a Jammu & Kashmir news channel with 200,000+ followers. Follows every story through a 5-stage pipeline — In Progress → Voice Over → Video/Editing → On Air → Done — on a mobile-first Kanban board, because the team works from phones.
+
+- **Automatic turnaround timing** — a timer starts when a story is created and stops at Done; elapsed time shows live on every card
+- **Overdue alerts** — anything not aired within an hour turns red, with overdue counts in the header and per-day badges
+- **One-click branded PDF day report** — everything completed today with start/finish times and turnaround
+- **Full audit trail** — every move, edit, and deletion logged with user and timestamp on a server-paginated feed
+- Role-based access control, search and stage filters, light/dark themes, toast notifications
+
+*Stack:* Next.js 16 · React 19 · TypeScript · MongoDB (Mongoose) · NextAuth · Tailwind CSS v4 · jsPDF
+
+---
+
 ### [Save My Tokens](https://github.com/Suffynux/save-my-tokens)
 A free, open-source personal tool for cutting AI token costs. Converts any file — PDF, Word, PowerPoint, Excel, CSV, or HTML — into clean Markdown using [Microsoft MarkItDown](https://github.com/microsoft/markitdown). Paste the output directly into Claude, ChatGPT, Gemini, or any text-based AI instead of uploading the raw file. Same content, dramatically fewer tokens.
 
