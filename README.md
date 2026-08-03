@@ -69,6 +69,20 @@ The international counterpart to the Pakistan store — same theme architecture 
 
 ---
 
+### Centro — New Home Tender Generator · [Case Study](https://github.com/Suffynux/Centro-Readme)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Suffynux/Centro-Readme/main/screenshots/desktop-tender-generator.png" width="800" alt="Centro desktop tender generator" />
+</p>
+
+Sales software for an Australian home builder, built in **two versions sharing one pricing engine and PDF layout** — a cross-platform **Electron desktop app** that runs fully offline (local JSON storage, PDFs rendered in-process, Windows/macOS installers) and a **Next.js + MongoDB web app** for multi-user teams. Live pricing across designs, facades, landscaping, council charges and upgrade packs; an admin-editable catalog so the client maintains their own prices; plus a house & land brochure generator handling commission, rebates and lot-fit filtering.
+
+Web security built in: bcrypt hashing, httpOnly JWT sessions verified in edge middleware, role-based access enforced server-side, and tiered API rate limiting.
+
+*Stack:* Electron · React · Next.js 14 · MongoDB · jose · bcryptjs · Tailwind · Radix UI
+
+---
+
 ### Unified Inbox · [Case Study](https://github.com/Suffynux/Unified-Inbox-Readme)
 
 <p align="center">
