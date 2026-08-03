@@ -69,6 +69,18 @@ The international counterpart to the Pakistan store — same theme architecture 
 
 ---
 
+### Unified Inbox · [Case Study](https://github.com/Suffynux/Unified-Inbox-Readme)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Suffynux/Unified-Inbox-Readme/main/screenshots/dashboard.png" width="800" alt="Unified Inbox dashboard" />
+</p>
+
+An internal ops tool replacing spreadsheets and WhatsApp for refund/exchange tracking across a 16-branch retail operation with 20+ agents. A stage-owned Kanban workflow (Sales/Branch → Logistics → Account Management), automated 7-day SLA enforcement with overdue email alerts, and cross-business duplicate/fraud detection (duplicate orders, repeat IBANs).
+
+*Stack:* Next.js · TypeScript · Supabase (Postgres, Auth, Storage) · Nodemailer · Vercel Cron
+
+---
+
 ### [Save My Tokens](https://github.com/Suffynux/save-my-tokens)
 A free, open-source personal tool for cutting AI token costs. Converts any file — PDF, Word, PowerPoint, Excel, CSV, or HTML — into clean Markdown using [Microsoft MarkItDown](https://github.com/microsoft/markitdown). Paste the output directly into Claude, ChatGPT, Gemini, or any text-based AI instead of uploading the raw file. Same content, dramatically fewer tokens.
 
