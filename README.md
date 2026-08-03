@@ -99,17 +99,17 @@ A newsroom production tracker built for **JK News**, an Azad Kashmir & Mancheste
 
 ---
 
-### [Save My Tokens](https://github.com/Suffynux/save-my-tokens)
-A free, open-source personal tool for cutting AI token costs. Converts any file — PDF, Word, PowerPoint, Excel, CSV, or HTML — into clean Markdown using [Microsoft MarkItDown](https://github.com/microsoft/markitdown). Paste the output directly into Claude, ChatGPT, Gemini, or any text-based AI instead of uploading the raw file. Same content, dramatically fewer tokens.
+### [Save My Tokens](https://save-my-tokens.vercel.app) · [GitHub](https://github.com/Suffynux/save-my-tokens) · MIT
 
-- Supports PDF, DOCX, PPTX, XLSX, CSV, and HTML conversion in one click
-- Powered by Microsoft MarkItDown running inside a Python serverless function
-- Displays a live token estimate alongside a copy and download button
-- Zero storage, zero sign-in — file is processed and immediately discarded
-- One-click self-hosting: fork the repo, import to Vercel, and deploy in minutes
-- Fully open source — free to use, fork, and extend
+Upload a 1,000-page PDF straight into an AI model and it burns your entire token budget before you ask a single question — most of it spent on layout and encoding overhead, not content. This converts the document to clean Markdown first, so the same file costs a fraction of the tokens and leaves room for the actual conversation. Built as an internal tool, then open-sourced.
 
-*Stack:* Next.js · TypeScript · Python · Microsoft MarkItDown · Vercel Serverless
+- Converts PDF, DOCX, PPTX, XLSX, CSV, and HTML in one click via [Microsoft MarkItDown](https://github.com/microsoft/markitdown) in a Python serverless function
+- Live token estimate alongside copy and download
+- **Voice notes to text in 16 languages** — including Urdu, Hindi, Arabic, and Mandarin — so you can speak a prompt instead of typing it. Audio is downmixed and resampled client-side to 16 kHz PCM WAV, keeping the serverless function ffmpeg-free
+- Zero storage, zero sign-in — files are processed and immediately discarded
+- One-click self-hosting: fork, import to Vercel, deploy
+
+*Stack:* Next.js 16 · TypeScript · Python · Microsoft MarkItDown · SpeechRecognition · Vercel Serverless
 
 ---
 
