@@ -1,7 +1,7 @@
 # Sufiyan Ali
 **Full-Stack Developer · UI-Focused Engineer · Problem Solver**
 
-[Portfolio](https://www.suffynux.me) · [LinkedIn](https://www.linkedin.com/in/sufiyan-ali-suffynux) · suffynux@gmail.com
+[Portfolio](https://www.suffynux.com) · [LinkedIn](https://www.linkedin.com/in/sufiyan-ali-suffynux) · suffynux@gmail.com
 
 ---
 
