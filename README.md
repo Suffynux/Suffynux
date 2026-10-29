@@ -35,36 +35,82 @@ Projects I am actively building, maintaining, and contributing to:
 
 ### [Gomila OMS](https://www.gomilaoms.com/) · E-commerce operations platform
 
-<p align="center">
-  <img src="screenshots/gomila-oms-workflow.jpg" width="900" alt="Gomila OMS current made-to-order workflow, captured with empty customer fields" />
-</p>
+![Gomila OMS customer support analytics](screenshots/gomila-chat-analytics-current.jpg)
 
-**An order is only the beginning.** A footwear retailer still needs to verify payment, allocate stock, coordinate custom production, dispatch the parcel, resolve returns and reconcile the money. I built Gomila OMS to connect that operational chain in one role-based workspace.
+**An order is only the beginning.** I built a connected workspace for the work around a footwear sale: customer conversations, payment checks, branch stock, custom production, dispatch, accounting, returns and exchanges.
 
-- **Orders and fulfilment:** Shopify orders, staged queues, payment checks, branch assignment, split orders and dispatch exceptions.
-- **Custom production:** made-to-order specifications, reference images, verification, production, quality and packing handoffs.
-- **Stock and integrations:** retail inventory visibility and synchronisation with storefront and operational systems.
-- **Delivery and after-sales:** courier workflows, returns, exchanges, refund ownership and operational reporting.
-- **Sales reconciliation:** online and branch reporting distinguishes prepaid money received from COD orders that have actually been delivered.
-- **Background work:** synchronisation jobs, retry handling and role-based access support the workflow between teams.
+- **Customer support:** shared website, Facebook and Instagram inbox, a separate WhatsApp workspace, ownership, follow-ups, attachments and AI assistance.
+- **Orders and production:** Shopify workflows, branch allocation, made-to-order specifications, verification, production, quality and packing.
+- **Finance:** vouchers, journal entries, customer ledgers, invoices, vendor bills, chart of accounts and general ledger. Sales reporting distinguishes prepaid receipts from delivered COD orders.
+- **After-sales:** dedicated return and exchange trackers with stages, branch/status filters and clear ownership.
+- **Reporting and integration:** workload analytics, commerce and courier connections, synchronisation and retry handling.
 
-*Stack:* Next.js · TypeScript · Supabase · PostgreSQL · commerce and courier integrations
+**[Explore the system guide: chat, analytics, production, finance, returns and exchanges →](showcases/gomila-oms.md)**
 
-*Screenshot:* current live order-entry interface, captured 29 October 2026 with customer fields empty. The workspace requires authorised sign-in.
+*Stack:* Next.js · TypeScript · Supabase · PostgreSQL
 
-[Earlier refund-workspace case study](https://github.com/Suffynux/Unified-Inbox-Readme) — historical documentation of one part of the wider OMS.
+*Screenshots:* live interfaces reviewed 29 October 2026. Customer records are excluded or filtered out. Aggregate figures are a snapshot, not performance claims. Authorised sign-in is required.
+
+[Earlier refund-workspace documentation](https://github.com/Suffynux/Unified-Inbox-Readme)
 
 ---
 
-### [Cega](https://cega.com.pk) · [Case Study](https://github.com/Suffynux/Cega-Readme)
+### [CEGA](https://www.cega.com.pk/) · Programme operations platform
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Suffynux/Cega-Readme/main/screenshots/admin-dashboard-overview.png" width="800" alt="CEGA admin dashboard" />
-</p>
+![CEGA staff workspace](screenshots/cega-admin-hub.jpg)
 
-Full-stack platform for Pakistan's national gaming & animation education hub, backed by the Ministry of IT & Telecom — 10,000+ students trained. Built the complete CRM layer: applicant lifecycle management, a two-phase multi-judge scoring & evaluation system, batch/cohort analytics, resource booking (meeting rooms, co-working, rendering lab), and an AI chatbot assistant.
+A public and administrative platform for gaming and animation programmes. I built the tools that connect applications with the teams running training, incubation, shared spaces, events and certificates.
+
+- **Training:** cohort and course reporting, application intake and certificate generation with token-based retrieval.
+- **Incubation:** founder applications, two judging phases, six criteria per phase and multi-reviewer score normalisation.
+- **Facilities:** co-working applications, meeting-room bookings and rendering-lab requests.
+- **Events and governance:** registration reporting, KPI groups and partner rollups, with scheduled calendar reminders.
+- **Connected architecture:** public forms feed a protected backend with role-specific access.
+
+**[Explore the system guide: staff hub, training, incubation, facilities and events →](showcases/cega.md)**
 
 *Stack:* Next.js · TypeScript · MongoDB · NextAuth.js · OpenAI API
+
+[Public website](https://www.cega.com.pk/) · [Admin workspace — sign-in required](https://cega-pi.vercel.app/admin) · [Earlier case study](https://github.com/Suffynux/Cega-Readme)
+
+---
+
+### [UK Medical Aid](https://www.ukmedicalaid.com/) · Website, custom CMS & email marketing
+
+![UK Medical Aid campaign dashboard](screenshots/ukmedicalaid-campaigns-current.jpg)
+
+A complete charity platform: a public website for programmes, appeals and impact stories, plus a custom CMS and a built-in supporter email engine.
+
+- **Content management:** homepage sections, pages, appeals, team profiles, blogs, media and settings.
+- **Audience management:** newsletter signups, validated CSV imports, deduplication, tags and subscribed audiences.
+- **Campaign creation:** reusable templates, campaign duplication, preview and scheduling.
+- **Delivery engine:** batched recipient queues, transient retries, pause/resume, provider quota handling and subscription checks before sending.
+- **Reporting:** SMTP acceptance, failures, tracked opens/clicks and one-click unsubscribe handling.
+
+The scheduled processor runs every five minutes; a campaign becomes eligible at its scheduled time rather than promising exact-second delivery. SMTP acceptance does not guarantee inbox delivery.
+
+**[Explore the website, CMS and campaign system guide →](showcases/uk-medical-aid.md)**
+
+*Stack:* Next.js · React · TypeScript · MongoDB · Node.js · Cloudinary · Nodemailer
+
+---
+
+### [Bangrila Motors](https://www.bangrilamotors.com/) · Car booking enquiries through WhatsApp
+
+![Bangrila Motors booking website](screenshots/bangrila-home-current.jpg)
+
+A responsive, UI-focused rental website that turns fleet discovery into a structured conversation with the owner.
+
+- Filter the fleet and carry the chosen vehicle into the booking form.
+- Choose pickup/destination, hotel or place locations, dates, one-way/return travel and driver preferences.
+- Prepare a WhatsApp draft with the trip details, selected car, notes and location links.
+- The customer reviews and sends the message; the owner confirms pricing and availability.
+
+This is a car-enquiry workflow with hotel pickup/location search, not a hotel reservation or online payment system.
+
+**[Explore the booking journey →](showcases/bangrila-motors.md)**
+
+*Stack:* Next.js · React · TypeScript · Material UI · location search · WhatsApp links
 
 ---
 
