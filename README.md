@@ -50,7 +50,7 @@ Projects I am actively building, maintaining, and contributing to:
 
 *Stack:* Next.js · TypeScript · Supabase · PostgreSQL · commerce and courier integrations
 
-*Screenshot:* current live order-entry interface, captured 29 October 2026 with customer fields empty. No customer records, current revenue figures or invented performance metrics are published here. The workspace requires authorised sign-in.
+*Screenshot:* current live order-entry interface, captured 29 October 2026 with customer fields empty. The workspace requires authorised sign-in.
 
 [Earlier refund-workspace case study](https://github.com/Suffynux/Unified-Inbox-Readme) — historical documentation of one part of the wider OMS.
 
@@ -95,7 +95,7 @@ A French/English showroom website for a materials business in Groslay, France. B
 
 [Explore the website](https://www.zonepromateriaux.com/en) · [Open the visualiser](https://www.zonepromateriaux.com/en/visualiseur)
 
-*Status:* publicly accessible preview on the project's domain. The site retains sample-content/pricing notices and business details awaiting confirmation. Screenshots show the actual interface, not a fabricated AI result.
+*Status:* publicly accessible preview on the project's domain. The site retains sample-content/pricing notices and business details awaiting confirmation.
 
 ---
 
