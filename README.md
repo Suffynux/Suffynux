@@ -33,6 +33,29 @@ MERN Stack · Next.js · TypeScript · Backend APIs · UI/UX Implementation · A
 
 Projects I am actively building, maintaining, and contributing to:
 
+### [Gomila OMS](https://www.gomilaoms.com/) · E-commerce operations platform
+
+<p align="center">
+  <img src="screenshots/gomila-oms-workflow.jpg" width="900" alt="Gomila OMS current made-to-order workflow, captured with empty customer fields" />
+</p>
+
+**An order is only the beginning.** A footwear retailer still needs to verify payment, allocate stock, coordinate custom production, dispatch the parcel, resolve returns and reconcile the money. I built Gomila OMS to connect that operational chain in one role-based workspace.
+
+- **Orders and fulfilment:** Shopify orders, staged queues, payment checks, branch assignment, split orders and dispatch exceptions.
+- **Custom production:** made-to-order specifications, reference images, verification, production, quality and packing handoffs.
+- **Stock and integrations:** retail inventory visibility and synchronisation with storefront and operational systems.
+- **Delivery and after-sales:** courier workflows, returns, exchanges, refund ownership and operational reporting.
+- **Sales reconciliation:** online and branch reporting distinguishes prepaid money received from COD orders that have actually been delivered.
+- **Background work:** synchronisation jobs, retry handling and role-based access support the workflow between teams.
+
+*Stack:* Next.js · TypeScript · Supabase · PostgreSQL · commerce and courier integrations
+
+*Screenshot:* current live order-entry interface, captured 29 October 2026 with customer fields empty. No customer records, current revenue figures or invented performance metrics are published here. The workspace requires authorised sign-in.
+
+[Earlier refund-workspace case study](https://github.com/Suffynux/Unified-Inbox-Readme) — historical documentation of one part of the wider OMS.
+
+---
+
 ### [Cega](https://cega.com.pk) · [Case Study](https://github.com/Suffynux/Cega-Readme)
 
 <p align="center">
@@ -42,6 +65,37 @@ Projects I am actively building, maintaining, and contributing to:
 Full-stack platform for Pakistan's national gaming & animation education hub, backed by the Ministry of IT & Telecom — 10,000+ students trained. Built the complete CRM layer: applicant lifecycle management, a two-phase multi-judge scoring & evaluation system, batch/cohort analytics, resource booking (meeting rooms, co-working, rendering lab), and an AI chatbot assistant.
 
 *Stack:* Next.js · TypeScript · MongoDB · NextAuth.js · OpenAI API
+
+---
+
+### [Zone Pro Matériaux](https://www.zonepromateriaux.com/en) · Bilingual catalogue & room visualiser
+
+<p align="center">
+  <img src="screenshots/zone-pro-home.jpg" width="900" alt="Zone Pro Matériaux English materials-showroom homepage" />
+</p>
+
+A French/English showroom website for a materials business in Groslay, France. Built to help customers explore tile collections, compare sizes and finishes, inspect product references and start an enquiry with useful context.
+
+- Bilingual navigation that preserves the current page and filters.
+- Catalogue search, categories, product details, image zoom and coverage estimates.
+- Product-specific enquiry links and responsive layouts for phone and desktop.
+- A room-photo visualiser that connects product discovery to the customer's own space.
+
+#### AI room visualiser / floor & wall feature
+
+<p align="center">
+  <img src="screenshots/zone-pro-visualiser.jpg" width="900" alt="Zone Pro visualiser with room-photo upload, catalogue tiles and floor-level controls" />
+</p>
+
+**Available in the public preview:** an approximate, browser-based floor preview. Customers choose a photo and a catalogue tile, adjust the floor level and compare before/after. This quick-preview mode processes the photo on the device.
+
+**Implemented in source, pending public activation:** a Gemini image-rendering integration for floors, walls or both. The public deployment reviewed on 29 October 2026 still labels the AI render “coming soon”; a live AI-generated result was not verified.
+
+*Stack:* Next.js · React · TypeScript · Canvas · Gemini image API integration
+
+[Explore the website](https://www.zonepromateriaux.com/en) · [Open the visualiser](https://www.zonepromateriaux.com/en/visualiseur)
+
+*Status:* publicly accessible preview on the project's domain. The site retains sample-content/pricing notices and business details awaiting confirmation. Screenshots show the actual interface, not a fabricated AI result.
 
 ---
 
@@ -80,18 +134,6 @@ Sales software for an Australian home builder, built in **two versions sharing o
 Web security built in: bcrypt hashing, httpOnly JWT sessions verified in edge middleware, role-based access enforced server-side, and tiered API rate limiting.
 
 *Stack:* Electron · React · Next.js 14 · MongoDB · jose · bcryptjs · Tailwind · Radix UI
-
----
-
-### Unified Inbox · [Case Study](https://github.com/Suffynux/Unified-Inbox-Readme)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Suffynux/Unified-Inbox-Readme/main/screenshots/dashboard.png" width="800" alt="Unified Inbox dashboard" />
-</p>
-
-An internal ops tool replacing spreadsheets and WhatsApp for refund/exchange tracking across a 16-branch retail operation with 20+ agents. A stage-owned Kanban workflow (Sales/Branch → Logistics → Account Management), automated 7-day SLA enforcement with overdue email alerts, and cross-business duplicate/fraud detection (duplicate orders, repeat IBANs).
-
-*Stack:* Next.js · TypeScript · Supabase (Postgres, Auth, Storage) · Nodemailer · Vercel Cron
 
 ---
 
